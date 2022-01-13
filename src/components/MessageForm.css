@@ -1,0 +1,15 @@
+  .container{
+    display: flex;
+    background-color: aqua;
+    border: 10px solid green;
+    border-radius: 5px;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20%;
+  }
+
+  body{
+    background-color: gray;
+  }
